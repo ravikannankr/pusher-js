@@ -54,7 +54,8 @@
   },
   "dependencies": {
     "faye-websocket": "0.9.4",
-    "libsodium-wrappers": "^0.7.3",
+    "tweetnacl": "^1.0.0",
+    "tweetnacl-util": "^0.15.0",
     "typescript": "^2.8.4",
     "webpack": "^4.10.2",
     "xmlhttprequest": "^1.8.0"
